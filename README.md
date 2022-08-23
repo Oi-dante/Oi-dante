@@ -1,5 +1,5 @@
 
-<p align="center"> <img  src="https://c.tenor.com/IeXeDuvMYPEAAAAd/no.gif" height="330"> </P>
+<p align="center"> <img  src="https://c.tenor.com/IeXeDuvMYPEAAAAd/no.gif" height="330"> widht="100%" </P>
 
 
 <h1>Hi, i'm Gustavo Barboza! <img src="https://img1.picmix.com/output/stamp/normal/0/9/0/4/1604090_a14a5.gif" height="70px"></h1> 
