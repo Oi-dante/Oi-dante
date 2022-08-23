@@ -4,6 +4,8 @@
 
 <h1>Hi, i'm Gustavo Barboza! <img src="https://img1.picmix.com/output/stamp/normal/0/9/0/4/1604090_a14a5.gif" height="70px"></h1> 
 <p>A novice developer from Brazil. <br> Currently studying at Anhembi Morumbi.
+
+   <br>
    <br>
    <a href="https://www.instagram.com/guto__dante/"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
