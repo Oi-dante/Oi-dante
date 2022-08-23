@@ -37,8 +37,7 @@
                 }
     }
 ```
-<img src="https://78.media.tumblr.com/c15b061360fa577cfa6fa1868bc45962/tumblr_o2d65b8VYl1so9b4uo1_500.gif" height="80">
-<strong>I'd rather make mistakes than make nothing at all. </strong>
+<img src="https://78.media.tumblr.com/c15b061360fa577cfa6fa1868bc45962/tumblr_o2d65b8VYl1so9b4uo1_500.gif" height="80"><strong>I'd rather make mistakes than make nothing at all. </strong>
 <cite>- Ekko</cite>
 
 
