@@ -27,14 +27,14 @@
 
 ```javascript
     const Dante = {
-    pronouns: "he" | "him",
-    frontEnd: [ HTML, CSS ],
-    personal: {
-                    game: "League of Legends, Chess, Pokemon and Dungens and Dragons",
-                    music: "Pop, Rock and Underground",
-                    food: "Sushi"
-                    drink: "Coffee and Whisky"
-                }
+         pronouns: "he" | "him",
+         frontEnd: [ HTML, CSS ],
+         personal: {
+                 game: "League of Legends, Chess, Pokemon and Dungeons and Dragons",
+                 music: "Pop, Rock and Underground",
+                 food: "Sushi",
+                 drink: "Coffee and Whisky"
+         }
     }
 ```
 <img src="https://78.media.tumblr.com/c15b061360fa577cfa6fa1868bc45962/tumblr_o2d65b8VYl1so9b4uo1_500.gif" height="80"><i><strong>I'd rather make mistakes than make nothing at all. </strong>
