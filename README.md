@@ -32,8 +32,8 @@
     personal: {
                     game: "League of Legends, Chess, Pokemon and Dungens and Dragons",
                     music: "Pop, Rock and Underground",
-                    food: "Sushi"
-                    drink: "Coffee and Whisky"
+                    food: "Sushi",
+                    drink: "Coffee and Whisky",
                 }
     }
 ```
