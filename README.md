@@ -3,7 +3,7 @@
 
 
 <h1>Hi, i'm Gustavo Barboza! <img src="https://img1.picmix.com/output/stamp/normal/0/9/0/4/1604090_a14a5.gif" height="70px"></h1> 
-<p>A novice developer from Brazil. <br> Currently studying at Anhembi Morumbi.
+<p>A front-end developer from Brazil. <br> Currently studying at Anhembi Morumbi.
 
    <br>
    <br>
