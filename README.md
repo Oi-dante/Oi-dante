@@ -28,7 +28,7 @@
 ```javascript
     const Dante = {
     pronouns: "he" | "him",
-    frontEnd: [ HTML, CSS ],
+    frontEnd: [ HTML, CSS, JS],
     personal: {
                     game: "League of Legends, Chess, Pokemon and Dungens and Dragons",
                     music: "Pop, Rock and Underground",
