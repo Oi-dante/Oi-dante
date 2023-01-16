@@ -8,9 +8,9 @@
    <br>
    <br>
    <a href="https://www.instagram.com/guto__dante/"> 
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/Instagram-0078D4?style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/gustavo-barboza-5641601ab/">
-    <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <img src= "https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="mailto:gustavobarboza2003@gmail.com.br">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </p> 
